@@ -9,4 +9,4 @@
 
 
 <a href="https://www.instagram.com/kztakeriskk_/"><img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Instagram.svg" width="30" height="90"></a>
-<a href="https://www.linkedin.com/in/carlton-okot-953a95224/"><img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg"></a>
+<a href="https://www.linkedin.com/in/carlton-okot-953a95224/"><img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" width="30" height="90"></a>
