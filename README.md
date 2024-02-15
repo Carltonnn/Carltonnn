@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about anything to do with Data Analytics
+  
 Where to find me:
 
       ↓↓↓↓↓↓
