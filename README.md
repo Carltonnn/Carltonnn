@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about anything to do with Data Analytics 
-- 📫 How to reach me: carltonokot@gmail.com
+- 📫 How to reach me: #E4405F
