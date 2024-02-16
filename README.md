@@ -15,6 +15,7 @@ Where to find me:
 <a href="https://www.linkedin.com/in/carlton-okot-953a95224/"><img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" width="30" height="90"></a>
 <a href="https://discordapp.com/users/140781247851921408"><img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="30" height="90"></a>
 <a href="https://app.netlify.com/teams/carltonokot/overview"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Netlify-Light.svg" width="30" height="90"></a>
+
 <a href="https://www.youtube.com/@snike_5428"><img src= "https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" width="60" height="50"></a>
 
 
