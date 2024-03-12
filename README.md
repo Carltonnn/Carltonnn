@@ -20,8 +20,6 @@ Where to find me:
 
 
 Some interesting things about me:
-
-- I Volunteer at 999club as I’m interested in seeing lives changed.
 - Awarded best Mathematician at Mathletics in school.
 - Really like Rally Racing
 - Love Skydiving
